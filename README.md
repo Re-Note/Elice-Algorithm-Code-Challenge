@@ -14,5 +14,5 @@
 | Day 6  | 빨간 선과 파란 선          | 60      | [6일차 풀이 링크](https://github.com/Re-Note/Elice-Algorithm-Code-Challenge/blob/master/day6/Mission_day6.md) |
 | Day 7  | 계기판 조작하기            | 84      | [7일차 풀이 링크](https://github.com/Re-Note/Elice-Algorithm-Code-Challenge/blob/master/day7/Mission_day7.md) |
 | Day 8  | 강림제                    | 80      | [8일차 풀이 링크](https://github.com/Re-Note/Elice-Algorithm-Code-Challenge/blob/master/day8/Mission_day8.md) |
-| Day 9  | 격자 위의 ELICE           | 62      |  |
+| Day 9  | 격자 위의 ELICE           | 62      |   |
 
