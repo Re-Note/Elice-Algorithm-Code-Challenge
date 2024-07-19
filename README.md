@@ -15,4 +15,5 @@
 | Day 7  | 계기판 조작하기            | 84      | [7일차 풀이 링크](https://github.com/Re-Note/Elice-Algorithm-Code-Challenge/blob/master/day7/Mission_day7.md) |
 | Day 8  | 강림제                    | 80      | [8일차 풀이 링크](https://github.com/Re-Note/Elice-Algorithm-Code-Challenge/blob/master/day8/Mission_day8.md) |
 | Day 9  | 격자 위의 ELICE           | 62      | [9일차 풀이 링크](https://github.com/Re-Note/Elice-Algorithm-Code-Challenge/blob/master/day9/Mission_day9.md) |
+| Day 10  | 계단 카드 뽑기           | 30      | [10일차 풀이 링크](https://github.com/Re-Note/Elice-Algorithm-Code-Challenge/blob/master/day10/Mission_day10.md) |
 
