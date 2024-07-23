@@ -1,10 +1,3 @@
----
-title: "앨리스 알고리즘 코드 챌린지 4일차"
-categories: "Extern_Activity"
-tag: [Extern_Activity]
-toc: true
----
-
 # 앨리스 알고리즘 코드 챌린지 4일차
 
 ![image](https://imgur.com/ucRQM1q.png)
