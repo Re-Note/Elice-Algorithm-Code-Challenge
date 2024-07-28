@@ -17,3 +17,18 @@
 | Day 9  | 격자 위의 ELICE           | 62      | [9일차 풀이 링크](https://github.com/Re-Note/Elice-Algorithm-Code-Challenge/blob/master/day9/Mission_day9.md) |
 | Day 10  | 계단 카드 뽑기           | 30      | [10일차 풀이 링크](https://github.com/Re-Note/Elice-Algorithm-Code-Challenge/blob/master/day10/Mission_day10.md) |
 
+## 최종 결과 및 후기
+
+![image](https://imgur.com/6QOcEpV.png)
+
+7월 8일 ~ 7월 19일, 평일 10일간의 챌린지가 끝났습니다.
+
+예선 10문항중 4문항을 풀었고, 총점 1000점 중 732점으로 마무리했습니다.
+
+본선 진출은 최종적으로 예선 10문항 정답자, 총점 1000점 대상자로 진행한다고 안내 받았으며
+
+아쉽지만 챌린지는 여기까지 진행하게 되었습니다.
+
+챌린지를 진행하며 다양한 문제를 접해보면서 문제 해결 능력이 조금이라도 더 성장한것 같습니다.
+
+다른 챌린지도 기회가 되면 참여해보고자 합니다.
